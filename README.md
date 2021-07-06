@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Suat
+- Suat
 - interested in Mobile App Development & Front-End Technologies
 - currently learning Flutter, Dart & Computer Science
 
