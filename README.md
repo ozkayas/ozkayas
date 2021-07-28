@@ -1,6 +1,6 @@
-- Suat
+- Hi, this is Suat
 - interested in Mobile App Development & Front-End Technologies
-- currently learning Flutter, Dart & Computer Science
+- currently learning Flutter, Dart, Javascript & Computer Science
 
 
 <!---
