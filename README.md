@@ -1,6 +1,7 @@
 - Hi, this is Suat
 - interested in Mobile App Development & Front-End Technologies
 - currently learning Flutter, Dart, Javascript & Computer Science
+- CS50: Introduction to Computer Science | Harvard University ---- %80 ----
 
 
 <!---
