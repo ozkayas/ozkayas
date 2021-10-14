@@ -2,8 +2,12 @@
 - interested in Mobile App Development & Front-End Technologies
 - currently learning Flutter, Dart, Javascript & Computer Science
 - [StackOverFlow Profile](https://stackoverflow.com/users/14269222/suat-%c3%96zkaya)
-- [Medium Stories](https://medium.com/@suatozkaya)
-- CS50: Introduction to Computer Science | Harvard University ---- %90 ----
+
+[Medium Stories: ](https://medium.com/@suatozkaya)
+- [Flutter & GetX: Basic Authentication Flow](https://medium.com/@suatozkaya/flutter-getx-basic-authentication-flow-de3d0313d5ae)
+- [Flutter: The Advanced Layout Rule Even Beginners Must Know - Turkish translation](https://medium.com/@suatozkaya/flutter-herkesin-bilmesi-gereken-temel-layout-kurallar%C4%B1-3395762b518e)
+
+CS50: Introduction to Computer Science | Harvard University ---- %90 ----
 
 
 <!---
