@@ -2,6 +2,7 @@
 - interested in Mobile App Development & Front-End Technologies
 - currently learning Flutter, Dart, Javascript & Computer Science
 - [StackOverFlow Profile](https://stackoverflow.com/users/14269222/suat-%c3%96zkaya)
+- Reading:Flutter Apprentice, Dart Apprentice
 
 [Medium Stories: ](https://medium.com/@suatozkaya)
 - [Flutter: How to Get Anything From Dart Enums](https://medium.com/@suatozkaya/how-to-get-anything-from-dart-enums-ad53734325ca)
