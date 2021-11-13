@@ -5,7 +5,7 @@
 
 - Reading/Training Progress:
   - [Flutter Apprentice](https://www.raywenderlich.com/books/flutter-apprentice) | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
-  - [Dart Apprentice](https://www.raywenderlich.com/books/dart-apprentice)  | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
+  - [Dart Apprentice](https://www.raywenderlich.com/books/dart-apprentice)  | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
   - [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | Harvard University ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95)
 
 [Medium Stories: ](https://medium.com/@suatozkaya)
