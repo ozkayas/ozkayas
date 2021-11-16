@@ -4,9 +4,9 @@
 - [StackOverFlow Profile](https://stackoverflow.com/users/14269222/suat-%c3%96zkaya)
 
 - Reading/Training Progress:
-  - [Flutter Apprentice](https://www.raywenderlich.com/books/flutter-apprentice) | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
-  - [Dart Apprentice](https://www.raywenderlich.com/books/dart-apprentice)  | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
-  - [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | Harvard University ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95)
+  - [Flutter Apprentice](https://www.raywenderlich.com/books/flutter-apprentice) | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/75)
+  - [Dart Apprentice](https://www.raywenderlich.com/books/dart-apprentice)  | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95)
+  - [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | Harvard University ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 😎
 
 [Medium Stories: ](https://medium.com/@suatozkaya)
 - [Flutter: How to Get Anything From Dart Enums](https://medium.com/@suatozkaya/how-to-get-anything-from-dart-enums-ad53734325ca)
