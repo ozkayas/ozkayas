@@ -4,11 +4,16 @@
 - [StackOverFlow Profile](https://stackoverflow.com/users/14269222/suat-%c3%96zkaya)
 
 - Reading/Training Progress:
-  - [Pragmatic Programmer](https://www.amazon.com.tr/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+  - [Pragmatic Programmer](https://www.amazon.com.tr/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
   - [Git Apprentice](https://www.raywenderlich.com/books/git-apprentice) | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/75)
   - [Flutter Apprentice](https://www.raywenderlich.com/books/flutter-apprentice) | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
   - [Dart Apprentice](https://www.raywenderlich.com/books/dart-apprentice)  | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) ✌🏼
   - [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | Harvard University ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 😎
+
+- 2022 Readings:
+  - [Dune #4: God of Emperor of Dune](http://www.ithaki.com.tr/urun/dune-tanri-imparatoru/)
+  - [Suskunlar](https://1000kitap.com/kitap/suskunlar--1035)
+  - [Dune $5: Heretics of Dune](https://1000kitap.com/kitap/dune-sapkinlari--244146)
 
 [Medium Stories: ](https://medium.com/@suatozkaya)
 - [Flutter: How to Get Anything From Dart Enums](https://medium.com/@suatozkaya/how-to-get-anything-from-dart-enums-ad53734325ca)
