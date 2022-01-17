@@ -1,6 +1,6 @@
 
-- interested in Mobile App Development & Front-End Technologies
-- currently learning Flutter, Dart, Javascript & Computer Science
+- Interested in Mobile App Development & Front-End Technologies
+- Currently learning Flutter, Dart, Kotlin
 - [StackOverFlow Profile](https://stackoverflow.com/users/14269222/suat-%c3%96zkaya)
 
 - Reading/Training Progress:
