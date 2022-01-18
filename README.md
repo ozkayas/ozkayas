@@ -1,6 +1,6 @@
 
 - Interested in Mobile App Development & Front-End Technologies
-- Currently learning Flutter, Dart, Kotlin
+- Learning Flutter, Dart, Kotlin
 - [StackOverFlow Profile](https://stackoverflow.com/users/14269222/suat-%c3%96zkaya)
 
 - Reading/Training Progress:
@@ -15,7 +15,7 @@
   - [Suskunlar](https://1000kitap.com/kitap/suskunlar--1035)
   - [Dune #5: Heretics of Dune](https://1000kitap.com/kitap/dune-sapkinlari--244146)
 
-[Medium Stories: ](https://medium.com/@suatozkaya)
+### Medium Stories:
 - [Flutter: How to Get Anything From Dart Enums](https://medium.com/@suatozkaya/how-to-get-anything-from-dart-enums-ad53734325ca)
 - [Flutter & GetX: Basic Authentication Flow](https://medium.com/@suatozkaya/flutter-getx-basic-authentication-flow-de3d0313d5ae)
 - [Flutter: The Advanced Layout Rule Even Beginners Must Know - Turkish translation](https://medium.com/@suatozkaya/flutter-herkesin-bilmesi-gereken-temel-layout-kurallar%C4%B1-3395762b518e)
