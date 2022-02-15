@@ -14,6 +14,8 @@
   - [Dune #4: God of Emperor of Dune](http://www.ithaki.com.tr/urun/dune-tanri-imparatoru/)
   - [Suskunlar](https://1000kitap.com/kitap/suskunlar--1035)
   - [Dune #5: Heretics of Dune](https://1000kitap.com/kitap/dune-sapkinlari--244146)
+  - [Dune #6: Chapterhouse Dune](https://1000kitap.com/kitap/dune-rahibeler-meclisi--254473)
+
 
 ### Medium Stories:
 - [Flutter: How to Get Anything From Dart Enums](https://medium.com/@suatozkaya/how-to-get-anything-from-dart-enums-ad53734325ca)
