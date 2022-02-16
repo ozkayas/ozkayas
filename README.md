@@ -4,7 +4,7 @@
 - [StackOverFlow Profile](https://stackoverflow.com/users/14269222/suat-%c3%96zkaya)
 
 - Reading/Training Progress:
-  - [Pragmatic Programmer](https://www.amazon.com.tr/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/37)
+  - [Pragmatic Programmer](https://www.amazon.com.tr/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
   - [Git Apprentice](https://www.raywenderlich.com/books/git-apprentice) | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)✍🏽 (18.01.2022)
   - [Flutter Apprentice](https://www.raywenderlich.com/books/flutter-apprentice) | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 🤓 (20.12.2021)
   - [Dart Apprentice](https://www.raywenderlich.com/books/dart-apprentice)  | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) ✌🏼 (01.12.2021)
