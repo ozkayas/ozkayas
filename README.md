@@ -4,9 +4,10 @@
 - [StackOverFlow Profile](https://stackoverflow.com/users/14269222/suat-%c3%96zkaya)
 
 - Reading/Training Progress:
-  - [Refactoring](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)  
+  - [Refactoring](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+  - [Android Jetpack Compose Bootcamp](https://www.udemy.com/course/kotling-android-jetpack-compose-) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/15) 
   - [Pragmatic Programmer](https://www.amazon.com.tr/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 👉🏽 (22.03.2022)
-  - [Git Apprentice](https://www.raywenderlich.com/books/git-apprentice) | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)✍🏽 (18.01.2022)
+  - [Git Apprentice](https://www.raywenderlich.com/books/git-apprentice) | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) ✍🏽 (18.01.2022)
   - [Flutter Apprentice](https://www.raywenderlich.com/books/flutter-apprentice) | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 🤓 (20.12.2021)
   - [Dart Apprentice](https://www.raywenderlich.com/books/dart-apprentice)  | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) ✌🏼 (01.12.2021)
   - [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | Harvard University ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 😎
