@@ -21,15 +21,18 @@
   - [Dune #4: God of Emperor of Dune](http://www.ithaki.com.tr/urun/dune-tanri-imparatoru/)
   
 - <details>
-  <summary>The title of the image group</summary>
-  <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=20% />
-  <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=20% />
-  <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=20% />
-  <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=20% />
-
+  <summary><h4>My 2022 Readings 👈🏼 Click</h4></summary>
+  <tr>
+  <a href="https://www.goodreads.com/book/show/23168817-the-dark-forest"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412064931i/23168817.jpg" width=30% /></a>
+  <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=30% />
+  <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=30% />
+  </tr>
+  <tr>
+  <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=30% />
+  <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=30% />
+  <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=30% />
+  </tr>
 </details>
-
-
 
 
 
