@@ -21,13 +21,18 @@
   - [Dune #4: God of Emperor of Dune](http://www.ithaki.com.tr/urun/dune-tanri-imparatoru/)
   
 <table>
+  <!---
   <tr>
     <td>The Dark Forest</td>
     <td>Holiday Mention</td>
     <td>Present day in purple and selected day in pink</td>
   </tr>
+--->
   <tr>
     <td><img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=90% ></td>
+    <td><img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=90% ></td>
+    <td><img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=90% ></td>
+     <td><img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=90% ></td>
     <td><img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=90% ></td>
     <td><img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=90% ></td>
   </tr>
