@@ -20,12 +20,16 @@
   - [Suskunlar](https://1000kitap.com/kitap/suskunlar--1035)
   - [Dune #4: God of Emperor of Dune](http://www.ithaki.com.tr/urun/dune-tanri-imparatoru/)
   
+<!---
 - <details>
   <summary><h4>My 2022 Readings 👈🏼 Click</h4></summary>
   <tr>
-  <a href="https://www.goodreads.com/book/show/23168817-the-dark-forest" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412064931i/23168817.jpg" width=30% /></a>
-  <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=30% />
-  <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=30% />
+ <a href="https://www.goodreads.com/book/show/23168817-the-dark-forest" target="_blank">
+  <img src="https://user-images.githubusercontent.com/63163416/163053620-16ea16b3-3f5b-4051-80e6-5a67dc4a8384.jpeg" width=30% /></a>
+ <a href="https://www.goodreads.com/book/show/23168817-the-dark-forest" target="_blank">
+  <img src="https://user-images.githubusercontent.com/63163416/163053945-44a3296a-4715-4649-8f55-5847f55f4920.jpeg" width=30% /></a>   
+ <a href="https://www.goodreads.com/book/show/23168817-the-dark-forest" target="_blank"> 
+  <img src="https://user-images.githubusercontent.com/63163416/163053999-22727743-9ea3-4bff-baf6-1e2aa29e3ad8.jpeg" width=30% /></a>
   </tr>
   <tr>
   <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=30% />
@@ -34,8 +38,11 @@
   </tr>
 </details>
 
+![three_body_problem](https://user-images.githubusercontent.com/63163416/163053945-44a3296a-4715-4649-8f55-5847f55f4920.jpeg)
 
+![dune_6](https://user-images.githubusercontent.com/63163416/163053999-22727743-9ea3-4bff-baf6-1e2aa29e3ad8.jpeg)
 
+--->
 
 
 ### Medium Stories:
@@ -47,4 +54,5 @@
 <!---
 ozkayas/ozkayas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
 --->
