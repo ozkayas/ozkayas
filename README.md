@@ -20,14 +20,14 @@
   - [Suskunlar](https://1000kitap.com/kitap/suskunlar--1035)
   - [Dune #4: God of Emperor of Dune](http://www.ithaki.com.tr/urun/dune-tanri-imparatoru/)
   
-<details>
+- <details>
   <summary>The title of the image group</summary>
-  <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=%100 />
-  <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=%100 />
-  <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=%100 />
+  <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=20% />
+  <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=20% />
+  <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=20% />
+  <img src="http://www.ithaki.com.tr/wp-content/uploads/2019/04/t%C3%BCm-s-is.jpg" width=20% />
+
 </details>
-
-
 
 
 
