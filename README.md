@@ -46,6 +46,8 @@
 
 
 ### Medium Stories:
+- [Dart: Generative Constructors](https://medium.com/@suatozkaya/69c5b9db5230)
+- [Dart: Factory Constructors](https://medium.com/@suatozkaya/dart-constructors-101-3bf36339ea0)
 - [Flutter: How to Get Anything From Dart Enums](https://medium.com/@suatozkaya/how-to-get-anything-from-dart-enums-ad53734325ca)
 - [Flutter & GetX: Basic Authentication Flow](https://medium.com/@suatozkaya/flutter-getx-basic-authentication-flow-de3d0313d5ae)
 - [Flutter: The Advanced Layout Rule Even Beginners Must Know - Turkish translation](https://medium.com/@suatozkaya/flutter-herkesin-bilmesi-gereken-temel-layout-kurallar%C4%B1-3395762b518e)
