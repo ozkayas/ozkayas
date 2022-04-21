@@ -13,6 +13,7 @@
   - [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | Harvard University ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 😎
 
 - 2022 Readings:
+  - [Death's End](https://www.goodreads.com/book/show/25451264-death-s-end)
   - [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest)
   - [The Three-Body Problem](http://www.ithaki.com.tr/urun/uc-cisim-problemi/)
   - [Dune #6: Chapterhouse Dune](https://1000kitap.com/kitap/dune-rahibeler-meclisi--254473)
