@@ -13,6 +13,7 @@
   - [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | Harvard University ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 😎
 
 - 2022 Readings:
+  - [The Caves of Steel, Asimov](https://www.amazon.com/Caves-Steel-Robot-Book-ebook/dp/B004JHYRAO/ref=sr_1_1?keywords=the+caves+of+steel&qid=1651603314&sprefix=the+caves+of%2Caps%2C297&sr=8-1)
   - [Death's End](https://www.goodreads.com/book/show/25451264-death-s-end)
   - [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest)
   - [The Three-Body Problem](http://www.ithaki.com.tr/urun/uc-cisim-problemi/)
@@ -47,6 +48,7 @@
 
 
 ### Medium Stories:
+- [Change the default AppBar Buttons for the whole app](https://medium.com/@suatozkaya/change-the-default-appbar-buttons-for-the-whole-app-f9b5ff3773f7)
 - [Dart: Generative Constructors](https://medium.com/@suatozkaya/69c5b9db5230)
 - [Dart: Factory Constructors](https://medium.com/@suatozkaya/dart-constructors-101-3bf36339ea0)
 - [Flutter: How to Get Anything From Dart Enums](https://medium.com/@suatozkaya/how-to-get-anything-from-dart-enums-ad53734325ca)
