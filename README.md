@@ -4,7 +4,7 @@
 - [StackOverFlow Profile](https://stackoverflow.com/users/14269222/suat-%c3%96zkaya)
 
 - Reading/Training Progress:
-  - [Head First Design Patterns](https://www.amazon.com.tr/Head-First-Design-Patterns-Object-oriented-dp-149207800X/dp/149207800X) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+  - [Head First Design Patterns](https://www.amazon.com.tr/Head-First-Design-Patterns-Object-oriented-dp-149207800X/dp/149207800X) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
   - [Android Jetpack Compose Bootcamp](https://www.udemy.com/course/kotling-android-jetpack-compose-) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25) 
   - [Pragmatic Programmer](https://www.amazon.com.tr/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 👉🏽 (22.03.2022)
   - [Git Apprentice](https://www.raywenderlich.com/books/git-apprentice) | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) ✍🏽 (18.01.2022)
@@ -13,6 +13,8 @@
   - [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | Harvard University ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 😎
 
 - 2022 Readings:
+  - [Tiamat](https://1000kitap.com/kitap/tiamat--325017)
+  - [The Naked Sun, Asimov](https://www.amazon.com/gp/product/B004JHYRDQ)
   - [The Caves of Steel, Asimov](https://www.amazon.com/Caves-Steel-Robot-Book-ebook/dp/B004JHYRAO/ref=sr_1_1?keywords=the+caves+of+steel&qid=1651603314&sprefix=the+caves+of%2Caps%2C297&sr=8-1)
   - [Death's End](https://www.goodreads.com/book/show/25451264-death-s-end)
   - [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest)
@@ -22,7 +24,7 @@
   - [Suskunlar](https://1000kitap.com/kitap/suskunlar--1035)
   - [Dune #4: God of Emperor of Dune](http://www.ithaki.com.tr/urun/dune-tanri-imparatoru/)
   
-<!---
+<!--
 - <details>
   <summary><h4>My 2022 Readings 👈🏼 Click</h4></summary>
   <tr>
@@ -44,7 +46,7 @@
 
 ![dune_6](https://user-images.githubusercontent.com/63163416/163053999-22727743-9ea3-4bff-baf6-1e2aa29e3ad8.jpeg)
 
---->
+-->
 
 
 ### Medium Stories:
