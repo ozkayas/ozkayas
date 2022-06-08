@@ -13,6 +13,7 @@
   - [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | Harvard University ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 😎
 
 - 2022 Readings:
+  - [Galiz Kahraman](https://1000kitap.com/kitap/galiz-kahraman--15325)
   - [Tiamat](https://1000kitap.com/kitap/tiamat--325017)
   - [The Naked Sun, Asimov](https://www.amazon.com/gp/product/B004JHYRDQ)
   - [The Caves of Steel, Asimov](https://www.amazon.com/Caves-Steel-Robot-Book-ebook/dp/B004JHYRAO/ref=sr_1_1?keywords=the+caves+of+steel&qid=1651603314&sprefix=the+caves+of%2Caps%2C297&sr=8-1)
