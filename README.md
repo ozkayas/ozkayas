@@ -4,7 +4,7 @@
 - [StackOverFlow Profile](https://stackoverflow.com/users/14269222/suat-%c3%96zkaya)
 
 - Reading/Training Progress:
-  - [Object Oriented Analysis & Design](https://www.amazon.com.tr/Head-First-Objects-Oriented-Analysis-Design/dp/0596008678) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) 
+  - [Object Oriented Analysis & Design](https://www.amazon.com.tr/Head-First-Objects-Oriented-Analysis-Design/dp/0596008678) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) 
   - [Head First Design Patterns](https://www.amazon.com.tr/Head-First-Design-Patterns-Object-oriented-dp-149207800X/dp/149207800X) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) ✍🏽 (17.07.2022)
   - [Android Jetpack Compose Bootcamp](https://www.udemy.com/course/kotling-android-jetpack-compose-) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25) 
   - [Pragmatic Programmer](https://www.amazon.com.tr/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 👉🏽 (22.03.2022)
