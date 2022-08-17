@@ -14,6 +14,7 @@
   - [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | Harvard University ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 😎
 
 - 2022 Readings:
+  - [I, Robot, Asimov](https://www.goodreads.com/book/show/41804.I_Robot)
   - [Robots and Empire, Asimov](https://www.goodreads.com/book/show/76688.Robots_and_Empire)
   - [The Robots of Dawn, Asimov](https://www.amazon.com/gp/product/B0024NP57Y)
   - [Galiz Kahraman](https://1000kitap.com/kitap/galiz-kahraman--15325)
