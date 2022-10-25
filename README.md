@@ -15,6 +15,8 @@
   - [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | Harvard University ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 😎
 
 - 2022 Readings:
+
+  - [The Adventures of Sherlock Holmes](https://www.goodreads.com/book/show/3590.The_Adventures_of_Sherlock_Holmes)
   - [The Sign of Four](https://www.goodreads.com/book/show/608474.The_Sign_of_Four)
   - [A Study in Scarlet](https://www.goodreads.com/book/show/102868.A_Study_in_Scarlet)
   - [I, Robot, Asimov](https://www.goodreads.com/book/show/41804.I_Robot)
