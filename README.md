@@ -3,7 +3,7 @@
 - Learning Flutter, Dart, Kotlin
 - [StackOverFlow Profile](https://stackoverflow.com/users/14269222/suat-%c3%96zkaya)
 
-- Reading/Training Progress:
+#### Reading/Training Progress:
   - [Object Oriented Analysis & Design](https://www.amazon.com.tr/Head-First-Objects-Oriented-Analysis-Design/dp/0596008678) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) ✍🏽 (05.10.2022) 
   - [Android Basics With Compose](https://developer.android.com/courses/android-basics-compose/course)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) 
   - [Head First Design Patterns](https://www.amazon.com.tr/Head-First-Design-Patterns-Object-oriented-dp-149207800X/dp/149207800X) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) ✍🏽 (17.07.2022)
@@ -14,8 +14,18 @@
   - [Dart Apprentice](https://www.raywenderlich.com/books/dart-apprentice)  | raywenderlich.com ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) ✌🏼 (01.12.2021)
   - [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | Harvard University ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 😎
 
-- 2022 Readings:
+#### Medium Stories:
+- [Change the default AppBar Buttons for the whole app](https://medium.com/@suatozkaya/change-the-default-appbar-buttons-for-the-whole-app-f9b5ff3773f7)
+- [Dart: Generative Constructors](https://medium.com/@suatozkaya/69c5b9db5230)
+- [Dart: Factory Constructors](https://medium.com/@suatozkaya/dart-constructors-101-3bf36339ea0)
+- [Flutter: How to Get Anything From Dart Enums](https://medium.com/@suatozkaya/how-to-get-anything-from-dart-enums-ad53734325ca)
+- [Flutter & GetX: Basic Authentication Flow](https://medium.com/@suatozkaya/flutter-getx-basic-authentication-flow-de3d0313d5ae)
+- [Flutter: The Advanced Layout Rule Even Beginners Must Know - Turkish translation](https://medium.com/@suatozkaya/flutter-herkesin-bilmesi-gereken-temel-layout-kurallar%C4%B1-3395762b518e)
 
+#### 2022 Readings: 
+
+  - [The Memoirs of Sherlock Holmes](https://www.goodreads.com/book/show/194373.The_Memoirs_of_Sherlock_Holmes)  
+  - [Status Anxiety](https://www.goodreads.com/book/show/23425.Status_Anxiety)
   - [The Adventures of Sherlock Holmes](https://www.goodreads.com/book/show/3590.The_Adventures_of_Sherlock_Holmes)
   - [The Sign of Four](https://www.goodreads.com/book/show/608474.The_Sign_of_Four)
   - [A Study in Scarlet](https://www.goodreads.com/book/show/102868.A_Study_in_Scarlet)
@@ -52,6 +62,8 @@
   </tr>
 </details>
 
+
+
 ![three_body_problem](https://user-images.githubusercontent.com/63163416/163053945-44a3296a-4715-4649-8f55-5847f55f4920.jpeg)
 
 ![dune_6](https://user-images.githubusercontent.com/63163416/163053999-22727743-9ea3-4bff-baf6-1e2aa29e3ad8.jpeg)
@@ -59,13 +71,7 @@
 -->
 
 
-### Medium Stories:
-- [Change the default AppBar Buttons for the whole app](https://medium.com/@suatozkaya/change-the-default-appbar-buttons-for-the-whole-app-f9b5ff3773f7)
-- [Dart: Generative Constructors](https://medium.com/@suatozkaya/69c5b9db5230)
-- [Dart: Factory Constructors](https://medium.com/@suatozkaya/dart-constructors-101-3bf36339ea0)
-- [Flutter: How to Get Anything From Dart Enums](https://medium.com/@suatozkaya/how-to-get-anything-from-dart-enums-ad53734325ca)
-- [Flutter & GetX: Basic Authentication Flow](https://medium.com/@suatozkaya/flutter-getx-basic-authentication-flow-de3d0313d5ae)
-- [Flutter: The Advanced Layout Rule Even Beginners Must Know - Turkish translation](https://medium.com/@suatozkaya/flutter-herkesin-bilmesi-gereken-temel-layout-kurallar%C4%B1-3395762b518e)
+
 
 
 <!---
