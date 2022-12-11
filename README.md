@@ -25,7 +25,8 @@
 
 #### 2022 Readings: 
 
-  - [The Memoirs of Sherlock Holmes](https://www.goodreads.com/book/show/194373.The_Memoirs_of_Sherlock_Holmes)  
+  - [The Shining](https://www.goodreads.com/book/show/11588.The_Shining)  
+  - [The Memoirs of Sherlock Holmes](https://www.goodreads.com/book/show/194373.The_Memoirs_of_Sherlock_Holmes)
   - [Status Anxiety](https://www.goodreads.com/book/show/23425.Status_Anxiety)
   - [The Adventures of Sherlock Holmes](https://www.goodreads.com/book/show/3590.The_Adventures_of_Sherlock_Holmes)
   - [The Sign of Four](https://www.goodreads.com/book/show/608474.The_Sign_of_Four)
