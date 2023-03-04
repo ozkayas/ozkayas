@@ -4,7 +4,7 @@
 - [StackOverFlow Profile](https://stackoverflow.com/users/14269222/suat-%c3%96zkaya)
 
 #### Reading/Training Progress:
-  - [Dynamic Programming for beginners](https://www.youtube.com/watch?v=oBt53YbR9Kk) ![](https://progress-bar.dev/20)
+  - [Dynamic Programming for beginners](https://www.youtube.com/watch?v=oBt53YbR9Kk) ![](https://progress-bar.dev/100)
   - [Algorithms: Part I](https://www.coursera.org/learn/algorithms-part1) ![](https://progress-bar.dev/100) ✍🏽 (28.12.2022)
   - [Object Oriented Analysis & Design](https://www.amazon.com.tr/Head-First-Objects-Oriented-Analysis-Design/dp/0596008678) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) ✍🏽 (05.10.2022) 
   - [Android Basics With Compose](https://developer.android.com/courses/android-basics-compose/course)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) 
