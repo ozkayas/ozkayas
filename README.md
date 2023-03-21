@@ -4,10 +4,11 @@
 - [StackOverFlow Profile](https://stackoverflow.com/users/14269222/suat-%c3%96zkaya)
 
 #### Reading/Training Progress:
-  - [Dynamic Programming for beginners](https://www.youtube.com/watch?v=oBt53YbR9Kk) ![](https://progress-bar.dev/100)
+  - [Real World Flutter ](https://www.kodeco.com/books/real-world-flutter-by-tutorials)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25) 
+  - [Android Basics With Compose ](https://developer.android.com/courses/android-basics-compose/course)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) 
+  - [Dynamic Programming for beginners ](https://www.youtube.com/watch?v=oBt53YbR9Kk) ![](https://progress-bar.dev/100)
   - [Algorithms, Princeton U. Part I](https://www.coursera.org/learn/algorithms-part1) ![](https://progress-bar.dev/100) ✍🏽 (28.12.2022)
   - [Object Oriented Analysis & Design](https://www.amazon.com.tr/Head-First-Objects-Oriented-Analysis-Design/dp/0596008678) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) ✍🏽 (05.10.2022) 
-  - [Android Basics With Compose](https://developer.android.com/courses/android-basics-compose/course)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) 
   - [Head First Design Patterns](https://www.amazon.com.tr/Head-First-Design-Patterns-Object-oriented-dp-149207800X/dp/149207800X) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) ✍🏽 (17.07.2022)
   - [Android Jetpack Compose Bootcamp](https://www.udemy.com/course/kotling-android-jetpack-compose-) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25) -- Paused, will resume after official course
   - [Pragmatic Programmer](https://www.amazon.com.tr/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 👉🏽 (22.03.2022)
