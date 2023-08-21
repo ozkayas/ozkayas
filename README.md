@@ -16,6 +16,7 @@
   - [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | Harvard University ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 😎
 
 #### Medium Stories:
+- [Uploading files to AWS S3 bucket with presigned URLs in Flutter & Dart](https://medium.com/@suatozkaya/uploading-files-to-aws-s3-bucket-with-presigned-urls-in-flutter-dart-fd9ffcf82a74)
 - [Change the default AppBar Buttons for the whole app](https://medium.com/@suatozkaya/change-the-default-appbar-buttons-for-the-whole-app-f9b5ff3773f7)
 - [Dart: Generative Constructors](https://medium.com/@suatozkaya/69c5b9db5230)
 - [Dart: Factory Constructors](https://medium.com/@suatozkaya/dart-constructors-101-3bf36339ea0)
