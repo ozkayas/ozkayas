@@ -1,11 +1,12 @@
 
 - Interested in Mobile App Development & Front-End Technologies
-- Learning Flutter, Dart, Kotlin, Python3
+- Learning Flutter, Dart, Python3
+- [Medium Profile](https://medium.com/@suatozkaya)
 - [StackOverFlow Profile](https://stackoverflow.com/users/14269222/suat-%c3%96zkaya)
-- [Leetcode Profile](https://leetcode.com/suatozkaya/)
+- Studying DSA & Algorithms on [Leetcode Profile](https://leetcode.com/suatozkaya/)
 
 #### Reading/Training Progress:
-  - [Street Coder](https://www.amazon.com/Street-Coder-rules-break-them/dp/1617298379)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) 
+  - [Street Coder](https://www.amazon.com/Street-Coder-rules-break-them/dp/1617298379)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30) 
   - [Real World Flutter ](https://www.kodeco.com/books/real-world-flutter-by-tutorials)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 
   - [Dynamic Programming for beginners ](https://www.youtube.com/watch?v=oBt53YbR9Kk) ![](https://progress-bar.dev/100)
   - [Algorithms, Princeton U. Part I](https://www.coursera.org/learn/algorithms-part1) ![](https://progress-bar.dev/100) ✍🏽 (28.12.2022)
