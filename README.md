@@ -6,7 +6,9 @@
 - Studying DSA & Algorithms on [Leetcode Profile](https://leetcode.com/suatozkaya/)
 
 #### Reading/Training Progress:
-  - [Street Coder](https://www.amazon.com/Street-Coder-rules-break-them/dp/1617298379)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30) 
+  - [AWS Solutions Architect](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
+  - [System Design](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) ✍🏽 (28.12.2024)
+  - [Street Coder](https://www.amazon.com/Street-Coder-rules-break-them/dp/1617298379)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) ✍🏽 (15.08.2023)
   - [Real World Flutter ](https://www.kodeco.com/books/real-world-flutter-by-tutorials)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 
   - [Dynamic Programming for beginners ](https://www.youtube.com/watch?v=oBt53YbR9Kk) ![](https://progress-bar.dev/100)
   - [Algorithms, Princeton U. Part I](https://www.coursera.org/learn/algorithms-part1) ![](https://progress-bar.dev/100) ✍🏽 (28.12.2022)
@@ -27,7 +29,7 @@
 - [Flutter & GetX: Basic Authentication Flow](https://medium.com/@suatozkaya/flutter-getx-basic-authentication-flow-de3d0313d5ae)
 - [Flutter: The Advanced Layout Rule Even Beginners Must Know - Turkish translation](https://medium.com/@suatozkaya/flutter-herkesin-bilmesi-gereken-temel-layout-kurallar%C4%B1-3395762b518e)
 
-#### 📚 📖 👉🏽 [What I read in 2002](https://ozkayas.notion.site/What-I-read-in-2022-6aefc5aa06a24c10b25403edf6cafa02) 
+#### 📚 📖 👉🏽 [What I read in 2022](https://ozkayas.notion.site/What-I-read-in-2022-6aefc5aa06a24c10b25403edf6cafa02) 
 
 <!---
   - [ Reading List ](https://ozkayas.notion.site/What-I-read-in-2022-6aefc5aa06a24c10b25403edf6cafa02)
