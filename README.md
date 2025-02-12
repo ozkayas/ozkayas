@@ -29,7 +29,7 @@
 - [Flutter & GetX: Basic Authentication Flow](https://medium.com/@suatozkaya/flutter-getx-basic-authentication-flow-de3d0313d5ae)
 - [Flutter: The Advanced Layout Rule Even Beginners Must Know - Turkish translation](https://medium.com/@suatozkaya/flutter-herkesin-bilmesi-gereken-temel-layout-kurallar%C4%B1-3395762b518e)
 
-#### 📚 📖 👉🏽 [What I read in 2022](https://ozkayas.notion.site/What-I-read-in-2022-6aefc5aa06a24c10b25403edf6cafa02) 
+#### 📚 📖 👉🏽 [What I'm reading](https://ozkayas.notion.site/What-I-read-in-2022-6aefc5aa06a24c10b25403edf6cafa02) 
 
 <!---
   - [ Reading List ](https://ozkayas.notion.site/What-I-read-in-2022-6aefc5aa06a24c10b25403edf6cafa02)
