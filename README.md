@@ -6,7 +6,8 @@
 - Studying DSA & Algorithms on [Leetcode Profile](https://leetcode.com/suatozkaya/)
 
 #### Reading/Training Progress:
-  - [AWS Solutions Architect](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
+  - [Microsoft Learn: AI Agents]([https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/](https://learn.microsoft.com/en-us/shows/ai-agents-for-beginners/what-are-ai-agents))![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+  - [AWS Solutions Architect](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
   - [System Design](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) ✍🏽 (28.12.2024)
   - [Street Coder](https://www.amazon.com/Street-Coder-rules-break-them/dp/1617298379)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) ✍🏽 (15.08.2023)
   - [Real World Flutter ](https://www.kodeco.com/books/real-world-flutter-by-tutorials)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 
