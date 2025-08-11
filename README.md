@@ -6,6 +6,7 @@
 - Studying DSA & Algorithms on [Leetcode Profile](https://leetcode.com/suatozkaya/)
 
 #### Reading/Training Progress:
+  - [Microsoft Learn: MCP For Beginners]([https://github.com/microsoft/mcp-for-beginners/]))![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) (01.08.2025)
   - [Microsoft Learn: AI Agents]([https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/](https://learn.microsoft.com/en-us/shows/ai-agents-for-beginners/what-are-ai-agents))![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) (01.07.2025)
   - [AWS Solutions Architect](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
   - [System Design](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) ✍🏽 (28.12.2024)
