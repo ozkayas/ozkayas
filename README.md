@@ -1,4 +1,6 @@
 
+🎥 😀 Join 10K+ Subscribers to discuss more on my youtube channel -> https://www.youtube.com/@kodplanet
+
 - Interested in Mobile App Development & Front-End Technologies & AWS Serverless Solutions
 - Writing code in : Flutter, Dart, Python3, React, TypeScript
 - [Medium Profile](https://medium.com/@suatozkaya)
