@@ -1,6 +1,6 @@
 
-- Interested in Mobile App Development & Front-End Technologies
-- Learning Flutter, Dart, Python3
+- Interested in Mobile App Development & Front-End Technologies & AWS Serverless Solutions
+- Writing code in : Flutter, Dart, Python3, React, TypeScript
 - [Medium Profile](https://medium.com/@suatozkaya)
 - [StackOverFlow Profile](https://stackoverflow.com/users/14269222/suat-%c3%96zkaya)
 - Studying DSA & Algorithms on [Leetcode Profile](https://leetcode.com/suatozkaya/)
